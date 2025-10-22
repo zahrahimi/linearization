@@ -1,4 +1,6 @@
 # Linearization Explains Fine-Tuning in Large Language Models
+[![NeurIPS 2025 Paper](https://img.shields.io/badge/NeurIPS%202025-Paper-2ea44f?style=flat&labelColor=555)](https://openreview.net/forum?id=YOUR_ID)
+
 This is the official implementation for "Linearization Explains Fine-Tuning in Large Language Models".
 
 # Abstract
