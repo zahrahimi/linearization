@@ -8,11 +8,9 @@ Parameter-Efficient Fine-Tuning (PEFT) is a popular class of techniques that str
 
 ## Citation
 ```bibtex
-@inproceedings{,
-  title     = {Linearization Explains Fine-Tuning in Large Language Models},
-  author    = {Rahimi Afzal, Zahra and Esmaeilbeig, Tara and Soltanalian, Mojtaba and Ohannessian, Mesrob I.},
-  booktitle = {The Thirty-ninth Annual Conference on Neural Information Processing Systems},
-  year      = {2025},
-  url       = {https://openreview.net/forum?id=XXXX} 
+@inproceedings{afzallinearization,
+  title={Linearization Explains Fine-Tuning in Large Language Models},
+  author={Afzal, Zahra Rahimi and Esmaeilbeig, Tara and Soltanalian, Mojtaba and Ohannessian, Mesrob I},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
 }
 
