@@ -13,8 +13,7 @@ https://github.com/GT-RIPL/Selective-Projection-Decay
 
 ## Citation
 ```bibtex
-@inproceedings{
-afzal2025linearization,
+@inproceedings{afzal2025linearization,
 title={Linearization Explains Fine-Tuning in Large Language Models},
 author={Zahra Rahimi Afzal and Tara Esmaeilbeig and Mojtaba Soltanalian and Mesrob I Ohannessian},
 booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
